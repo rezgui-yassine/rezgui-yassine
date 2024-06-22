@@ -109,4 +109,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezgui-yassine&show_icons=true&locale=en&layout=compact" alt="rezgui-yassine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezgui-yassine&show_icons=true&locale=en" alt="rezgui-yassine" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=rezgui-yassine&" alt="rezgui-yassine" /></p>
+
