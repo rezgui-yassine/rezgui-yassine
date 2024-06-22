@@ -2,11 +2,6 @@
 <h3 align="center">I'm Full Stack Developer (Angular - SpringBoot) from Tunisia</h3>
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezgui-yassine" alt="rezgui-yassine" /></a> </p>
-
 - 🔭 I’m currently working on **E-Commerce Project**
 
 - 🌱 I’m currently learning **Spring Boot and Angular**
@@ -14,6 +9,12 @@
 - 💬 Ask me about **Angular,React,Express js,Node Js**
 
 - 📫 How to reach me **rezguiyassinee@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezgui-yassine" alt="rezgui-yassine" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
