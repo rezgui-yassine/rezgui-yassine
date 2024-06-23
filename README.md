@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">I'm Full Stack Developer (Angular - SpringBoot) from Tunisia</h3>
 
-<img align="right" height="150" width="500" style="margin: 0 0 30px 0;" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="500" style="margin: 0 0 30px 0;" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" />
