@@ -126,8 +126,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezgui-yassine&show_icons=true&locale=en" alt="rezgui-yassine" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&theme=radical" alt="GitHub Streak" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&" alt="rezgui-yassine" />
 </p>
 
 <picture>
@@ -140,8 +140,7 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    align="right"
+    alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution grid snake animation"
   />
 </picture>
