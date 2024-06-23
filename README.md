@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/yassine-rezgui" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-rezgui" height="30" width="40" />
  <a href="mailto:rezguiyassinee@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.gg/yvaso" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yvaso" height="30" width="40" />
@@ -136,7 +136,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&" alt="rezgui-yassine" />
 </p>
 
-<picture>
+/*<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -149,4 +149,4 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> */
