@@ -1,8 +1,13 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Yassine Rezgui</h1>
+<h1 align="center">
+  Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Yassine Rezgui
+</h1>
 <h3 align="center">I'm Full Stack Developer (Angular - SpringBoot) from Tunisia</h3>
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" /> </p>
+<img align="right" height="300" width="500" style="margin: 0 20px 30px 0;" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" />
+</p>
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
@@ -12,15 +17,23 @@
 
 - 📫 How to reach me **rezguiyassinee@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezgui-yassine" alt="rezgui-yassine" /></a> </p>
-
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rezgui-yassine" alt="rezgui-yassine" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yassine-rezgui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-rezgui" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yassine224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassine224" height="30" width="40" /></a>
-<a href="https://discord.gg/yvaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yvaso" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yassine-rezgui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-rezgui" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/yassine224" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassine224" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/yvaso" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yvaso" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -105,9 +118,10 @@
   </a>
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezgui-yassine&show_icons=true&locale=en&layout=compact" alt="rezgui-yassine" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezgui-yassine&show_icons=true&locale=en&layout=compact" alt="rezgui-yassine" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezgui-yassine&show_icons=true&locale=en" alt="rezgui-yassine" /></p>
-
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezgui-yassine&show_icons=true&locale=en" alt="rezgui-yassine" />
+</p>
