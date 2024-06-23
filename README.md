@@ -130,7 +130,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&" alt="rezgui-yassine" />
 </p>
 
-<picture align="right">
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
