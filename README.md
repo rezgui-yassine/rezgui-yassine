@@ -5,7 +5,6 @@
 
 <img align="right" height="300" width="500" style="margin: 0 0 30px 0;" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" />
 </p>
@@ -36,8 +35,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rezgui-yassine" alt="rezgui-yassine" />
   </a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -127,4 +124,12 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezgui-yassine&show_icons=true&locale=en" alt="rezgui-yassine" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&" alt="rezgui-yassine" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rezgui-yassine/rezgui-yassine/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
