@@ -130,6 +130,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezgui-yassine&" alt="rezgui-yassine" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/rezgui-yassine/rezgui-yassine/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
