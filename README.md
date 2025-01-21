@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=rezgui-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="rezgui-yassine" />
 </p>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on **Stock management Project**
 
 - 🌱 I’m currently learning **Spring Boot and Angular**
 
