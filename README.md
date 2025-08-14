@@ -30,6 +30,9 @@
   <a href="https://discord.gg/yvaso" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yvaso" height="30" width="40" />
   </a>
+ <a href="https://www.boot.dev/u/weepygirlfriend30" target="blank">
+    <img align="center" src="https://www.boot.dev/favicon.ico" alt="boot.dev" height="30" width="30" />
+  </a>
 </p>
 
 
